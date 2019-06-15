@@ -7,7 +7,9 @@
     This is my JSP page. <br>
     
     <input type="button" name="mybut1" id="mybut1" value="测试继承Actionsuport的Action"> <br/><br/>
-    <input type="button" name="mybut2" id="mybut2" value="测试没继承Actionsuport的Action"> 
+    <input type="button" name="mybut2" id="mybut2" value="测试没继承Actionsuport的Action"> \
+   
+   This is my JSP page. <br>
     
   </body>
 </html>
